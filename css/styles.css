@@ -15,15 +15,15 @@ body {
 }
 
 body.ucf-bg {
-    background-image: url("/images/UCF-Background.jpg");
+    background-image: url("/Images/UCF-Background.jpg");
 }
 
     body.space1-bg {
-        background-image: url("/images/Space-Background2.jpg");
+        background-image: url("/Images/space-background2.jpg");
     }
 
     body.space2-bg {
-        background-image: url("/images/Space-Background3.jpg");
+        background-image: url("/Images/space-background3.jpg");
     }
 
 header {
@@ -145,4 +145,5 @@ img {
     height: auto;
 
 }
+
 
